@@ -42,13 +42,13 @@ const smsTarde = () => { return `🏙️ مساء الخير 🌤️`}
 const smsTarde2 = () => { return `🌆 مساء الخير 🌥️`}
 const smsNoche = () => { return `🌃 طاب مساؤك 💫`}
 const smsListaMenu = () => { return `⊹ قائمة القائمة ⊹`}
-const smsLista1 = () => { return `🌟 معلومات YunaBot 🌟`}
+const smsLista1 = () => { return `🌟 معلومات RLGAZAR-BOT 🌟`}
 const smsLista2 = () => { return `💖 المنشئ 💖`}
 const smsLista3 = () => { return `🎁 تبرع: الدعم 🎁`}
 const smsLista4 = () => { return `🚀 سرعة 🚀`}
 const smsLista5 = () => { return `💡 معلومات القائمة 💡`}
 const smsLista6 = () => { return `🌀 قائمة كاملة 🌀`}
-const smsLista7 = () => { return `🐈 تثبيت YunaBot 🐈`}
+const smsLista7 = () => { return `🐈 تثبيت RLGAZAR-BOT 🐈`}
 const smsLista8 = () => { return `🍄 كن SUB BOT 🍄`}
 const smsLista9 = () => { return `📄 الشروط والأحكام والخصوصية 📄`}
 const smsLista10 = () => { return `🌟 المغامرة والأعلى 🌟`}
@@ -95,15 +95,15 @@ const smsCodigoQR = () => { return `\n✅ تنتهي صلاحية رمز QR في
 const smsConexionOFF = () => { return `\n⚠️ لا يوجد اتصال ، احذف المجلد ${global.authFile} وامسح رمز الاستجابة السريعة ⚠️`}
 
 //_allantilink.js
-const smsTextoYT = () => { return '😻 ممتاز YunaBot-MD - WhatsApp '}
+const smsTextoYT = () => { return '😻 ممتاز ELGAZARBOT-MD - WhatsApp '}
 const smsApagar = () => { return '❌ تعطيل'}
 const smsEncender = () => { return '✅ تفعيل'}
-const smsEnlaceTik = () => { return `*تم اكتشاف رابط TIKTOK محظور في هذه المجموعة*\n\n*لقد شرعت في حذفك*`}
-const smsEnlaceYt = () => { return `*تم اكتشاف رابط YOUTUBE محظور في هذه المجموعة*\n\n*لقد شرعت في حذفك*`}
-const smsEnlaceTel = () => { return `*تم اكتشاف رابط TELEGRAM محظور في هذه المجموعة*\n\n*لقد شرعت في حذفك*`}
-const smsEnlaceFb = () => { return `*تم اكتشاف رابط FACEBOOK محظور في هذه المجموعة*\n\n*لقد شرعت في حذفك*`}
-const smsEnlaceIg = () => { return `*تم اكتشاف رابط INSTAGRAM محظور في هذه المجموعة*\n\n*لقد شرعت في حذفك*`}
-const smsEnlaceTw = () => { return `*تم اكتشاف رابط TWITTER محظور في هذه المجموعة*\n\n*لقد شرعت في حذفك*`}
+const smsEnlaceTik = () => { return `*تم اكتشاف رابط تيكتوك محظور في هذه المجموعة*\n\n*لقد شرعت في حذفك*`}
+const smsEnlaceYt = () => { return `*تم اكتشاف رابط يوتيوب محظور في هذه المجموعة*\n\n*لقد شرعت في حذفك*`}
+const smsEnlaceTel = () => { return `*تم اكتشاف رابط تليجرام محظور في هذه المجموعة*\n\n*لقد شرعت في حذفك*`}
+const smsEnlaceFb = () => { return `*تم اكتشاف رابط فيسبوك محظور في هذه المجموعة*\n\n*لقد شرعت في حذفك*`}
+const smsEnlaceIg = () => { return `*تم اكتشاف رابط انستجرام محظور في هذه المجموعة*\n\n*لقد شرعت في حذفك*`}
+const smsEnlaceTw = () => { return `*تم اكتشاف رابط تويتر محظور في هذه المجموعة*\n\n*لقد شرعت في حذفك*`}
 const smsAllAdmin = () => { return `*أحتاج إلى أن أكون مشرفًا لأكون قادرًا على إزالة المتطفلين*`}
 const smsSoloOwner = () => { return `*يجب على خالقي تنشيط الوظيفة*\n*#on restrict*`}
 
@@ -136,7 +136,7 @@ const smsInt2 = () => { return `*غير مسموح به في هذه المجمو
 
 //_antilink.js
 const smsAdwa = () => { return `${global.lenguajeGB['smsAvisoEG']()}*نظرًا لأنك مسؤول في هذه المجموعة ، فلن تتم إزالتك*`}
-const smsEnlaceWat = () => { return `${lenguajeGB['smsAvisoAG']()}*تم اكتشاف رابط WHATSAPP محظور في هذه المجموعة*\n\n*لقد شرعت في حذفك*`}
+const smsEnlaceWat = () => { return `${lenguajeGB['smsAvisoAG']()}*تم اكتشاف رابط واتساب محظور في هذه المجموعة*\n\n*لقد شرعت في حذفك*`}
 
 //_antilink2.js
 const smsEnlaceWatt = () => { return `${lenguajeGB['smsAvisoAG']()}تم اكتشاف ارتباط محظور يحتوي على HTTPS في هذه المجموعة\n\nلقد شرعت في حذفك`}
@@ -496,7 +496,7 @@ const smsNam2 = () => { return `${lenguajeGB['smsAvisoMG']()}*🙌 اكتب اس
 const smsNam3 = () => { return `${lenguajeGB['smsAvisoFG']()}*يجب ألا يحتوي اسم المجموعة على أكثر من 25 حرفًا*`}
 
 //grupo-restaurarEnlace.js
-const smsRestGp = () => { return `${lenguajeGB['smsAvisoEG']()}*تمت إعادة تعيين ارتباط المجموعة*`}
+const smsRestGp = () => { return `${lenguajeGB['smsAvisoEG']()}*تمت إعادة تعيين رابط المجموعة*`}
 
 
 export default { lenguaje, smsAvisoRG, smsAvisoAG, smsAvisoIIG, smsAvisoFG, smsAvisoMG, smsAvisoEEG, smsAvisoEG, smsRowner, smsOwner, smsMods, smsPremium, smsGroup, smsPrivate, smsAdmin, smsBotAdmin, smsUnreg, smsRestrict, smsTime, smsUptime, smsVersion, smsTotalUsers, smsMode, smsModePublic, smsModePrivate, smsBanChats, smsBanUsers, smsPareja, smsResultPareja, smsSaludo, smsDia, smsTarde, smsTarde2, smsNoche, smsListaMenu, smsLista1, smsLista2, smsLista3, smsLista4, smsLista5, smsLista6, smsLista7, smsLista8, smsLista9, smsLista10, smsLista11, smsLista12, smsLista13, smsLista14, smsLista15, smsLista16, smsLista17, smsLista18, smsLista19, smsLista20, smsLista21, smsLista22, smsLista23, smsLista24, smsLista25, smsLista26, smsLista27, smsLista28, smsLista29, smsLista30, smsLista31, smsLista32, smsLista33, smsLista34, smsLista35, smsWelcome, smsBye, smsSpromote, smsSdemote, smsSdesc, smsSsubject, smsSicon, smsSrevoke, smsConexion, smsClearTmp, smsCargando, smsTextoYT, smsApagar, smsEncender, smsEnlaceTik, smsEnlaceYt, smsEnlaceTel, smsEnlaceFb, smsEnlaceIg, smsEnlaceTw, smsAllAdmin, smsSoloOwner, smsCont1, smsCont2, smsCont3, smsCont4, smsCont5, smsCont6, smsCont7, smsCont8, smsCont9, smsCont10, smsCont11, smsCont12, smsCont13, smsCont14, smsCont15, smsCont16, smsCont17, smsCont18, smsCont19, smsCont20, smsCont21, smsInt1, smsInt2, smsAdwa, smsEnlaceWat, smsEnlaceWatt, smsNoSpam, smsNoSpam2, smsConMenu, smsMalError, smsMalError2, smsMalError3, smsToxic1, smsToxic2, smsToxic3, smsToxic4, smsToxic5, smsToxic6, smsToxic7, eExp, eDiamante, eDiamantePlus, eToken, eEsmeralda, eJoya, eMagia, eOro, eGataCoins, eGataTickers, eEnergia, ePocion, eAgua, eBasura, eMadera, eRoca, ePiedra, eCuerda, eHierro, eCarbon, eBotella, eLata, eCarton, eEletric, eBarraOro, eOroComun, eZorroG, eBasuraG, eLoboG, eMaderaG, eEspada, eCarnada, eBillete, ePinata, eGancho, eCanaPescar, eCComun, ePComun, eCMistica, eCMascota, eCJardineria, eClegendaria, eUva, eManzana, eNaranja, eMango, ePlatano, eSUva, eSManzana, eSNaranja, eSMango, eSPlatano, eCentauro, eAve, eGato, eDragon, eZorro, eCaballo, eFenix, eLobo, ePerro, eAMascots, eCCentauro, eCAve, eCMagica, eCDragon, eACaballo, eCFenix, smsWel1, smsWel2, smsParaAdmins, smsDete1, smsDete2, smsANivel1, smsANivel2, smsParaAdYOw, smsParaOw, smsRestri1, smsRestri2, smsLlamar1, smsLlamar2, smsModP1, smsModP2, smsModAd1, smsModAd2, smsLect1, smsLect2, smsTempo1, smsTempo2, smsStik1, smsStik2, smsStickA1, smsStickA2, smsReacc1, smsReacc2, smsAudi1, smsAudi2, smsModHor1, smsModHor2, smsAntitoc1, smsAntitoc2, smsModOb1, smsModOb2,
