@@ -1,6 +1,6 @@
 /* By https://github.com/DIEGO-OFC/DORRAT-BOT-MD */
 let handler  = async (m, { conn, usedPrefix, command }) => {
-conn.sendHydrated(m.chat, `━━━━━[ *اكتب* ]━━━━⬣\n┃ *_${pickRandom(global.piropo)}_*\n━━━━━━[ ${vs} ]━━━━━⬣`, wm, null, md, '════ •『 𝒚𝒖𝒏𝒂 𝒃𝒐𝒕 』• ════', null, null, [
+conn.sendHydrated(m.chat, `━━━━━[ *اكتب* ]━━━━⬣\n┃ *_${pickRandom(global.piropo)}_*\n━━━━━━[ ${vs} ]━━━━━⬣`, wm, null, md, '════ •『 ELGAZAR BOT 』• ════', null, null, [
 ['تب سريع', `${usedPrefix}يي`]
 ], m,)}
 
