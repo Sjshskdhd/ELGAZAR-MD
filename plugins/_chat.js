@@ -3,7 +3,7 @@ let handler = m => m;
 handler.all = async function (m) {
   let chat = global.db.data.chats[m.chat];
   let responses;
-  if (/^يونا احبيك|يونا أحبيك|يونا بدي اتزوجك|يونا انتي الي|يونا اموت فيك$/i.test(m.text)) {
+  if (/^جزار احبيك|يونا أحبيك|جزار بدي اتزوجك|جزار انتي الي|جزار اموت فيك$/i.test(m.text)) {
     responses = [
       'شكرا  ', 
       'بفكر في الأمر', 
@@ -63,7 +63,7 @@ handler.all = async function (m) {
                  '  انا بنام تصبح على خير ', 
                   ' روح كمل نوم'
     ];
-  }else if (/^يونا اسكتي|اسكتي شوي|يا بنتي اسكتي$/i.test(m.text)) {
+  }else if (/^جزار اسكت|اسكت شوي|يا ابني اسكت$/i.test(m.text)) {
     responses = [
             'ما دخلك ', 
               ' مش علي كيفك', 
