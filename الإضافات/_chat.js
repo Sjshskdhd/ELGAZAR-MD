@@ -3,10 +3,10 @@ let handler = m => m;
 handler.all = async function (m) {
   let chat = global.db.data.chats[m.chat];
   let responses;
-  if (/^جزار احبيك|يونا أحبيك|جزار بدي اتزوجك|جزار انتي الي|جزار اموت فيك$/i.test(m.text)) {
+  if (/^جزار احبيك|جزار أحبيك|جزار بدي اتزوجك|جزار انتي الي|جزار اموت فيك$/i.test(m.text)) {
     responses = [
       'شكرا  ', 
-      'بفكر في الأمر', 
+      'بفكر في الامر', 
             'و انا', 
                   'خجلتني', 
                         'خلاص لا تخجلني ', 
