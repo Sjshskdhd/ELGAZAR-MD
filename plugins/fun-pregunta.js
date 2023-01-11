@@ -3,9 +3,9 @@ if (!text) throw `${lenguajeGB['smsAvisoMG']()} اكتب سؤالك ليتم ا�
 let pre = `╭━〔 سؤال 〕━⬣  
 سوال:  *${text}*
 ✅ جواب: *${['لا','اي', 'ممكن', 'امممم بفكر', 'اكيد لا', 'ربما لا', 'ربما نعم', 'بفكر في امر' ].getRandom()}*
-༺════ •⊰『 𝒚𝒖𝒏𝒂 』⊱• ════༻`.trim() 
+༺════ •⊰『 ELGAZAR 』⊱• ════༻`.trim() 
 
-conn.sendHydrated(m.chat, pre, wm, null, md, 'YUNA BOT', null, null, [
+conn.sendHydrated(m.chat, pre, wm, null, md, 'ELGAZAR BOT', null, null, [
 ['معاودة السوال', `${usedPrefix + command} ${text}`]
 ], m, null, m.mentionedJid ? {
 mentions: m.mentionedJid
