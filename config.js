@@ -113,23 +113,23 @@ global.gatadiosig = ig
 global.md = 'https://github.com/ahmed1pMD'
 global.gatabot = md
 
-global.nna = 'https://chat.whatsapp.com/IxeB9yBYrNp85CLmKykmMM'
-global.nnagrupo = nna //UPDATE YUNA BOT 
+global.nna = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nnagrupo = nna //UPDATE ELGAZAE BOT 
 global.nna2 = 'IxeB9yBYrNp85CLmKykmMM'
 
-global.nn = 'https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw'
+global.nn = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw'
+global.nnn = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw'
+global.nnnt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw'
+global.nnntt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
 global.nnnttgrupo = nnntt //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw'
+global.nnnttt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
 global.nnntttgrupo = nnnttt //Grupo 5
 global.paypal = 'https://youtube.com/@ABDALLAH_MOHAMED'
 global.donar = paypal
