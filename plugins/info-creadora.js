@@ -5,11 +5,11 @@ var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.present
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `
 المشرف
-*Wa.me/+213784391714* 
-*Wa.me/+213674234020*
+*Wa.me/+201098906252* 
+*Wa.me/+201098906252*
 *---------------------*
 *الايميل*
-*ahmedelbakour@iissdontoninotricase.net*
+*elgazar@iissdontoninotricase.net*
 *المالك*
 *${asistencia}*
 
@@ -17,7 +17,7 @@ let text = `
 let buttonMessage= {
 'document': { url: `${md}` },
 'mimetype': `تطبيق/${document}`,
-'fileName': `✦ YUNA-MD༄`,
+'fileName': `✦ ELGAZAR-MD༄`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
