@@ -69,7 +69,7 @@ state: 'WAITING' }
 if (text) room.name = text     
 let imgplay = `https://img.freepik.com/vector-premium/juego-tres-raya-icono-contorno-lineal-neon_7280-2422.jpg`
 conn.sendButton(m.chat, `
-إذا كنت تريد مغادرة الغرفة ، فاستخدم الأمر\n *${usedPrefix}delttt*
+إذا كنت تريد مغادرة الغرفة ، فاستخدم الأمر\n *${usedPrefix}مغادره*
 
 في انتظار اللاعب الثاني يمكنك الدخول بالزر أدناه أو باستخدام الأمر
 *${usedPrefix + command} ${text}*
@@ -77,5 +77,5 @@ conn.sendButton(m.chat, `
 إذا كنت تريد مغادرة الغرفة ، فاستخدم الأمر *${usedPrefix}delttt*`, wm, imgplay, [['😎 الإنضمام ', `${usedPrefix + command} ${text}`]], fkontak, m, { mentions: conn.parseMention(text) })
 conn.game[room.id] = room
 }}
-handler.command = /^(tictactoe|ttc|ttt|xo)$/i
+handler.command = /^(اكس|اكس-او|ttt|xo)$/i
 export default handler
