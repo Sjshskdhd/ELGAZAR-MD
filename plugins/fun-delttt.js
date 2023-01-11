@@ -20,6 +20,6 @@ if (room == undefined) return conn.sendButton(m.chat, `${lenguajeGB['smsAvisoFG'
 delete conn.game[room.id]
 
 await conn.sendButton(m.chat, `${lenguajeGB['smsAvisoEG']()} تم المسح `, wm, null, [[' قائمة الأوامر ☘️', '/menu'] ], fkontak, m)}  
-handler.command = /^(delttt|deltt|مسح|deltictactoe)$/i
+handler.command = /^(delttt|deltt|مسح|مغادره)$/i
 handler.fail = null
 export default handler
