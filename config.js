@@ -7,24 +7,24 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  [' 393271166550 ', 'MAYO 👑 ', true],
-  ['201002771022', 'YUNA 💖', true],
-//  ['213784391714', '𝐿 - 99👤', true],
-  ['+20 100 277 1022']]
+  [' 201098906252 ', 'ELGAZAR 👑 ', true],
+  ['201098906252', 'ELGAZAR 💖', true],
+//  ['201098906252', 'E - 99👤', true],
+  ['+20 109 890 6252']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = [' 393271166550 '], 
+global.prems = [' 201098906252 '], 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga GataBot-MD
+//Agrega el Idioma que quieres que tenga ELGAZARBot-MD
 //Add the language you want GataBot-MD to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = ar  //Idioma de GataBot, Ejemplo: es | en | pt...
+global.lenguajeGB = ar  //Idioma de ELGAZARBot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -93,24 +93,24 @@ global.imagen1 = fs.readFileSync('./media/menus/Menu3.jpg')
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'YUNA BOT 🧸'
-global.author = 'YUNA-MD'
+global.packname = 'ELGAZAR BOT 🧸'
+global.author = 'ELGAZAR-MD'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.5'
 global.version = vs
 
-global.gt = 'YUNA BOT'
+global.gt = 'ELGAZAR BOT'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/'
+global.yt = 'https://youtube.com/@ABDALLAH_MOHAMED'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/a_e_b_2003'
+global.ig = 'https://www.tiktok.com/@q.r.a.n_0?_t=8YwfdTqNdDR&_r=1'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/ahmed1p7/YUNA-MD'
+global.md = 'https://github.com/ahmed1pMD'
 global.gatabot = md
 
 global.nna = 'https://chat.whatsapp.com/IxeB9yBYrNp85CLmKykmMM'
@@ -131,10 +131,10 @@ global.nnnttgrupo = nnntt //Grupo 4
 
 global.nnnttt = 'https://chat.whatsapp.com/KSgHcPpZiXV7fMAscoptfw'
 global.nnntttgrupo = nnnttt //Grupo 5
-global.paypal = 'https://paypal.me/yunabot'
+global.paypal = 'https://youtube.com/@ABDALLAH_MOHAMED'
 global.donar = paypal
 
-global.asistencia = 'Wa.me/393271166550' //
+global.asistencia = 'Wa.me/201098906252' //
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -168,13 +168,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = ' YUNA-MD: YUNA'
-global.igfg = 'YUNA-MD'
+global.wm = ' ELGAZAR-MD: YUNA'
+global.igfg = 'ELGAZAR-MD'
 global.wait = '*⌛ _جاري التحميل..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _جاري التحميل..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _جاري التحميل..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _جاري التحميل..._ ▬▬▬▬▬▬▭*'
-global.nomorown = ' 393271166550' 
+global.nomorown = ' 201098906252' 
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
