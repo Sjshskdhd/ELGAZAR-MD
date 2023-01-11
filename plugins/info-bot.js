@@ -14,8 +14,8 @@ message: {
 
 if (/^الاوامر$/i.test(m.text)) {
     
-conn.sendButton(m.chat, `بوت يونا دام في خدمتك 
-ان واجهتك مشاكل اتصل في مالك  🙌`, `مرحبا انا يونا بوت `, wm, [['قائمة☘️', `#menu`]], 'conversation', { sendEphemeral: true, quoted: estilo })
+conn.sendButton(m.chat, `بوت الجزار دائما في خدمتك 
+ان واجهتك مشاكل اتصل في مالك  🙌`, `مرحبا انا الجزار بوت `, wm, [['قائمة☘️', `#menu`]], 'conversation', { sendEphemeral: true, quoted: estilo })
 conn.sendFile(m.chat, vn, 'bot.mp3', null, m, true, { type: 'audioMessage', ptt: true, sendEphemeral: true, quoted: estiloaudio })   
 }
 return !0
