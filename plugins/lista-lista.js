@@ -14,7 +14,7 @@ rows: [
 const listMessage = {
   text: `أنواع قوائم المستخدمين`,
   footer: wm,
-  title: `༺════ •⊰『 𝒚𝒖𝒏𝒂 𝒃𝒐𝒕 』⊱• ════༻`,
+  title: `༺════ •⊰『 ELGAZAR BOT 』⊱• ════༻`,
   buttonText: `📑 اختر قائمة 📑`,
   sections
 }
