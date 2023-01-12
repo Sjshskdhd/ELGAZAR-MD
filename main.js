@@ -1,5 +1,5 @@
 
-//gethup ahmed1p7/YUNA-MD
+//gethup abdallah/elgazar-MD
       
     process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0'; 
 import './config.js';
@@ -76,7 +76,7 @@ const connectionOptions = {
 printQRInTerminal: true,
 auth: state,
 logger: P({ level: 'silent'}),
-browser: ['𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫','Edge','1.0.0']
+browser: ['ELGAZAR BOT-MD','Edge','1.0.0']
 }
 
 global.conn = makeWASocket(connectionOptions)
